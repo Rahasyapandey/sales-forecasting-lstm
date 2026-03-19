@@ -16,6 +16,7 @@ A deep learning approach to time-series forecasting using LSTM (Long Short-Term 
 * **Pandas/NumPy** (Data Processing)
 
 ## 📊 Sample Visualization
+
 ![Sales Forecast](demo_plot.png)
 
 ## 🚀 GSoC 2026 Context
