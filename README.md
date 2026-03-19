@@ -9,7 +9,7 @@ The core of this project is translating complex LSTM outputs into human-readable
 </p>
 
 ### 🎨 Matplotlib Technical Implementation
-To meet the standards of the Matplotlib community, this project utilizes:
+To meet the standards, this project utilizes:
 * **Custom Styling:** Applied the `ggplot` stylesheet for a professional, research-grade aesthetic.
 * **Marker Logic:** Distinct markers (`o` for history, `s` for forecast) to differentiate between ground-truth and predicted data points.
 * **Visual Hierarchy:** Used bolded titles, custom axis labeling, and high-DPI (300) rendering to ensure clarity across all screen sizes.
