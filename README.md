@@ -9,7 +9,7 @@ The core of this project is translating complex LSTM outputs into human-readable
 </p>
 
 ### 🎨 Matplotlib Technical Implementation
-To meet the standards, this project utilizes:
+To meet the standards of the Matplotlib community, this project utilizes:
 * **Custom Styling:** Applied the `ggplot` stylesheet for a professional, research-grade aesthetic.
 * **Marker Logic:** Distinct markers (`o` for history, `s` for forecast) to differentiate between ground-truth and predicted data points.
 * **Visual Hierarchy:** Used bolded titles, custom axis labeling, and high-DPI (300) rendering to ensure clarity across all screen sizes.
@@ -33,6 +33,23 @@ Understanding how data is mapped to the screen (the "Transform Pipeline") is cru
 1. How data coordinates map to pixel coordinates during real-time plotting.
 2. The necessity of efficient rendering when dealing with large time-series datasets.
 3. Customizing the `Axes` object to handle future-dated time-steps outside the original training range.
+
+---
+
+## 👤 Contact & GSoC 2026 Commitment
+
+### 📮 Contact Information
+* **Name:** Rahasya Pandey
+* **Email:** rahasyapandey@gmail.com
+* **Mobile/Chat:** +91 8849391872
+* **Twitter:** [@RahasyaPandey](https://twitter.com/RahasyaPandey)
+* **GitHub:** [Rahasyapandey](https://github.com/Rahasyapandey)
+* **Zulip:** `@Rahasya_pandey` (Matplotlib Community)
+
+### ⏳ Availability Statement
+I am applying for the **Indirect Transforms** project. 
+* **Weekly Commitment:** I am committed to dedicating **35-40 hours per week** to this project.
+* **Other Commitments:** I have **no other internships, jobs, or conflicting academic courses** during the GSoC coding period (May – August 2026). This is my primary focus for the summer.
 
 ---
 
