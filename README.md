@@ -17,7 +17,7 @@ A deep learning approach to time-series forecasting using LSTM (Long Short-Term 
 
 ## 📊 Sample Visualization
 
-![Sales Forecast](demo_plot.png)
+![Sales Forecast](https://github.com/Rahasyapandey/sales-forecasting-lstm/blob/main/demo_plot.png?raw=true)
 
 ## 🚀 GSoC 2026 Context
 This project serves as a foundation for my understanding of Matplotlib's internals, specifically in preparation for the **Indirect Transforms** project.
